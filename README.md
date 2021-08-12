@@ -7,9 +7,12 @@
   </a>
 </h1>
 
-<h5 align="center">
+
   <code>
     <a href="https://www.linkedin.com/in/fahad-alharbi-b01119100/" title="LinkedIn Profile"><img width="22" src="https://github.com/Fahadeidalharbi/Fahadeidalharbi/blob/main/assets/images/linkedin-svgrepo-com.svg"> LinkedIn</a></code>
+  <code><a href="https://www.facebook.com/fahad.alharbi.16" title="Facebook Profile"><img width="22" src="https://github.com/Fahadeidalharbi/Fahadeidalharbi/blob/main/assets/images/facebook-svgrepo-com.svg"> HackerRank</a></code>
+  <code><a href="https://www.youtube.com/channel/UCL35XCybfe6jSnL9-bjEQ3A" title="YouTube Channel"><img width="22" src="https://github.com/Fahadeidalharbi/Fahadeidalharbi/blob/main/assets/images/youtube-svgrepo-com.svg"> Stack Overflow</a></code>
+
 </h5>
 <br>
 <p align="center">
