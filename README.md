@@ -60,6 +60,29 @@
 
 <hr>
 
+<hr>
+<h2 align="center">🔥 Frameworks & Languages & Tools 🔥</h2>
+<br>
+<p align="center">
+  <code><img title="C" height="25" src="https://github.com/Fahadeidalharbi/Fahadeidalharbi/blob/main/assets/images/c.svg"></code>
+  <code><img title="C++" height="25" src="https://github.com/Fahadeidalharbi/Fahadeidalharbi/blob/main/assets/images/cpp.svg"></code>
+  <code><img title="C#" height="25" src="https://github.com/Fahadeidalharbi/Fahadeidalharbi/blob/main/assets/images/cSharp.svg"></code>
+  <code><img title="Python" height="25" src="https://github.com/Fahadeidalharbi/Fahadeidalharbi/blob/main/assets/images/python-original.svg"></code>
+  <code><img title="Javascript" height="25" src="https://github.com/Fahadeidalharbi/Fahadeidalharbi/blob/main/assets/images/javascript.svg"></code>
+  <code><img title="HTML5" height="25" src="https://github.com/Fahadeidalharbi/Fahadeidalharbi/blob/main/assets/images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="https://github.com/Fahadeidalharbi/Fahadeidalharbi/blob/main/assets/images/css.svg"></code>
+  <code><img title="Git" height="25" src="https://github.com/Fahadeidalharbi/Fahadeidalharbi/blob/main/assets/images/git-original.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="https://github.com/Fahadeidalharbi/Fahadeidalharbi/blob/main/assets/images/postgresql.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://github.com/Fahadeidalharbi/Fahadeidalharbi/blob/main/assets/images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/Fahadeidalharbi/Fahadeidalharbi/blob/main/assets/images/visualstudio.png"></code>
+  <code><img title="Java" height="25" src="https://github.com/Fahadeidalharbi/Fahadeidalharbi/blob/main/assets/images/java-original.svg"></code>
+  <code><img title="GitHub" height="25" src="https://github.com/Fahadeidalharbi/Fahadeidalharbi/blob/main/assets/images/github.svg"></code>
+  <code><img title="MySQL" height="25" src="https://github.com/Fahadeidalharbi/Fahadeidalharbi/blob/main/assets/images/mysql.svg"></code>
+  <code><img title="PHP" height="25" src="https://github.com/Fahadeidalharbi/Fahadeidalharbi/blob/main/assets/images/php.svg"></code>
+</p>
+<hr>
+
+
 <!--
 **Fahadeidalharbi/Fahadeidalharbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
